@@ -1,6 +1,6 @@
 # Compiler Project
 
-This project implements a compiler using Lex for lexical analysis, Bison for parsing, and C++ for additional functionality (such as identifier management). It is designed to demonstrate how to build a basic compiler using these classic tools.
+This project implements a compiler using Lex for lexical analysis, Bison for parsing, and C++ for additional functionality (such as identifier management).
 
 
 ## Prerequisites
@@ -8,8 +8,7 @@ This project implements a compiler using Lex for lexical analysis, Bison for par
 Make sure you have the following installed on your system:
 - **Flex** – For lexical analysis.
 - **Bison** – For parser generation.
-- **G++/GCC** – To compile the generated and C++ source files.
-- **Bash** – To run the provided shell script.
+
 
 ## Building the Compiler
 
