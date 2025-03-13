@@ -1,0 +1,5 @@
+int a; 
+    int function(int a, float b);
+    begin_progr a:=b; c:=12;
+    call (5,45); 
+end_progr
