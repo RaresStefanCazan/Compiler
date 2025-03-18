@@ -12,9 +12,9 @@ Make sure you have the following installed on your system:
 
 ## Building the Compiler
 
-A build script (`compile.sh`) is provided to automate the compilation process. The script takes a single argument which represents the prefix of your grammar files.
+A build script (`compile.sh`) is provided to automate the compilation process.
 
-For example, if you want to compile the `expr` grammar, run:
+For example, run:
 
 ```bash
 ./compile.sh expr
