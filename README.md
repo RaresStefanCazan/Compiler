@@ -27,11 +27,6 @@ This script will:
 - Run Flex on the corresponding `expr.l` file to generate the lexical analyzer.
 - Compile the generated C files using `g++` and produce an executable named `expr`.
 
-You can repeat the process for other grammars (e.g., `limbaj`) by running:
-
-```bash
-./compile.sh limbaj
-```
 
 ## Running the Compiler
 
